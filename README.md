@@ -3,6 +3,8 @@ This is the very first iteration of my online portfolio created using Bootstrap 
 
 This challenge forced me to completely create a website using HTML and Bootstrap from scratch and I learned a lot in the process, I had to relearn a lot of things I'd already learned such as columns and rows -- which in bootstrap now go in the HTML in the div class instead of the css.
 
+<img src="images\Screenshot 2023-12-11 120721.png">
+
 # Usage
 When the page is loaded the page presents my name, a recent photo, and links to sections about me, my work, and how to contact me. You will also see a logo animation I made in Adobe Illustrator and After Effects which in the future will say my full name.
 
